@@ -29,7 +29,14 @@ deutschen Großstädten stattfinden.
 OWASP organisiert sich in sogenannten Chaptern. Eines davon ist das
 OWASP Chapter Klagenfurt, auf dessen Seite ihr euch gerade befindet.
 
-Mitarbeit am OWASP Klagenfurt Chapter ist willkommen.
+Mitarbeit am OWASP Klagenfurt Chapter ist willkommen. Wir koordinieren unsere Meetups via Meetup.com.
+
+Wir sind aktuell noch in der Ideenfindungsphase und sind offen für Veranstaltungsvorschläge. Aktuell sind geplant:
+
+- Vorträge
+- Stammtische
+
+Alle Veranstaltungen sind öffentlich und frei zugänglich.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
