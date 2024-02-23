@@ -5,7 +5,7 @@ title: OWASP Klagenfurt
 tags: example-tag
 region: Europe
 country: Austria
-meetup-group:
+meetup-group: owasp-klagenfurt-chapter
 
 ---
 
