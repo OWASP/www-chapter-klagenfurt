@@ -1,0 +1,26 @@
+leaders:
+  - name: Andreas Happe
+    email: andreas.happe@owasp.org
+    github: andreashappe
+  - name: Gerald Mueller
+    email: gerald.mueller@owasp.org
+  - name: Georg Prohaska
+    email: georg.prohaska@owasp.org
+location:
+  country: Austria
+  country_code: AT
+  region: Carinthia
+  city: Klagenfurt
+  latitude: 46.623943
+  longitude: 14.3075976
+meetup_group: owasp-klagenfurt-chapter
+name: OWASP Klagenfurt
+repositories:
+  - name: www-chapter-klagenfurt
+    url: https://github.com/OWASP/www-chapter-klagenfurt
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-klagenfurt
